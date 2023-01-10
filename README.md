@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-este es un repositorio de prueba del prepcourse de henry
+Prueba de como crear un repositorio y clonarlo desde hithub a mi computadora
